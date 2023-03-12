@@ -1,0 +1,5 @@
+55M	.
+40M	./products
+5.4M	./class
+4.3M	./patent
+68K	./cert
